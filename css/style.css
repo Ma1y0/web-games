@@ -1,0 +1,20 @@
+.grid {
+  min-height: 100%;
+  min-width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.cell {
+  border: 2px solid black;
+}
+
+a {
+  width: 128px;
+  height: 128px;
+}
+
+img {
+  width: 128px;
+  height: 128px;
+}

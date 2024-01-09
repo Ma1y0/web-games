@@ -1,0 +1,29 @@
+body,
+html {
+  height: 100%;
+}
+
+.grid {
+  padding-top: 125px;
+  display: flex;
+  justify-content: center;
+}
+
+.cell {
+  width: 64px;
+  height: 64px;
+  border: 2px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 23px;
+}
+
+.winner-label {
+  display: flex;
+  justify-content: center;
+}
+
+/* .row { */
+/*   display: flex; */
+/* } */
